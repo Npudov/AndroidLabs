@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">First Lab</string>
+    <string name="image1">image1</string>
+    <string name="imagebutton1">imagebutton1</string>
+    <string name="imageview1">imageView1</string>
+    <string name="imagebutton2">imagebutton2</string>
+    <string name="imageview2">imageView2</string>
+    <string name="imagebutton3">imagebutton3</string>
+    <string name="imageview3">imageview3</string>
+    <string name="imagebutton4">imagebutton4</string>
+    <string name="imageview4">imageview4</string>
+    <string name="imagebutton5">imagebutton5</string>
+    <string name="imagebutton6">imagebutton6</string>
+    <string name="imageview5">imageview5</string>
 </resources>
